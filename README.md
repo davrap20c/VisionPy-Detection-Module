@@ -7,18 +7,18 @@ Módulo de visión artificial en Python para la detección de patrones faciales 
 
 Este proyecto consiste en el desarrollo de un módulo de visión artificial capaz de procesar flujos de vídeo en vivo para la identificación de rostros. El objetivo principal es demostrar la integración de técnicas de procesamiento de imágenes y la gestión eficiente de recursos del sistema en entornos locales.
 
-## 🌟 Funcionalidades
+## Funcionalidades
 - **Detección en tiempo real:** Captura y análisis de frames mediante cámara web con latencia mínima.
 - **Preprocesamiento Óptimo:** Implementación de filtros de escala de grises para reducir la carga computacional del procesador.
 - **Identificación por Patrones:** Uso de clasificadores Haar Cascade para la detección precisa de rasgos biométricos.
 - **Control de Usuario:** Gestión de eventos de teclado para el cierre seguro de procesos y liberación de hardware.
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 - **Lenguaje:** Python 3.x
 - **Librerías:** - `OpenCV`: Motor de visión computacional.
   - `NumPy`: Procesamiento de los frames como estructuras matriciales.
 
-## 📥 Instalación y Uso rápido
+## Instalación y Uso rápido
 
 1. **Clonar el repositorio:**
    ```bash
